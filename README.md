@@ -11,11 +11,13 @@
 ### 🛠️ Skills & Technologies
 **Languages**: Python, JavaScript  
 **Frameworks**: Flask, HTML/CSS  
-**Technologies**: AI & ML, Web Development, API Development, Git
+**Technologies**: AI & ML, Web Development, AI Automations
 
 ### 🌟 Featured Projects
 #### [Portfolio Website](https://mrsehajofficial.github.io/Portfolio/)
 Modern, secure portfolio with dynamic projects, interactive forms, theme customization, and webhook integrations.
+
+## More Projects Comming Soon !
 
 ### 📫 Get In Touch
 - **Email**: mr.sehaj.official@gmail.com
@@ -27,4 +29,4 @@ Exploring advanced AI concepts, building autonomous systems, and expanding full-
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**
+⭐ **Feel free to collaborations with me!**
