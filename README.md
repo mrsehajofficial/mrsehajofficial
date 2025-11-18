@@ -14,7 +14,7 @@
 **Technologies**: AI & ML, Web Development, API Development, Git
 
 ### 🌟 Featured Projects
-#### [Portfolio Website](https://github.com/mrsehajofficial/portfolio)
+#### [Portfolio Website](https://mrsehajofficial.github.io/Portfolio/)
 Modern, secure portfolio with dynamic projects, interactive forms, theme customization, and webhook integrations.
 
 ### 📫 Get In Touch
