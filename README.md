@@ -14,7 +14,7 @@
 **Technologies**: AI & ML, Web Development, AI Automations
 
 ### 🌟 Featured Projects
-#### [Portfolio Website](https://mrsehajofficial.github.io/Portfolio/)
+## [Portfolio Website](https://mrsehajofficial.github.io/Portfolio/)
 Modern, secure portfolio with dynamic projects, interactive forms, theme customization, and webhook integrations.
 
 **More Projects Comming Soon !**
