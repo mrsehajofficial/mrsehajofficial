@@ -13,8 +13,9 @@
 **Tools:** n8n, webhooks, AI-assisted debugging
 
 ## 🌟 Featured Projects
-### [AI Chat Web App](https://mrsehajofficial.github.io/Portfolio/)
-A ChatGPT-style web app built fully by me with real-time AI integration, responsive UI, and automated workflows.
+### [Portfolio](https://mrsehajofficial.github.io/Portfolio/)
+Modern, secure portfolio with dynamic projects, interactive forms, theme customization, and webhook integrations.
+
 
 **More projects coming soon!**
 
