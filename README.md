@@ -1,30 +1,30 @@
 # Hi, I'm Sehaj! 👋
 
-## 🚀 Developer | AI Enthusiast | Creator of Agentic AI Systems
+## 🚀 Full-Stack Web Developer | AI & Automation Integrator
 
 ## 💻 About Me
-- 🤖 Self-directed AI developer specializing in agentic and autonomous systems
-- 🌟 Passionate about building innovative, real-world AI solutions
+- 🤖 Building practical web apps with AI integration
+- 🌟 Passionate about clean, efficient, and innovative solutions
 - 📍 Based in Sirsa, Haryana, India
 
 ## 🛠️ Skills & Technologies
-**Languages**: Python, JavaScript  
-**Frameworks**: Flask, HTML/CSS  
-**Technologies**: AI & ML, Web Development, AI Automations
+**Web:** HTML, CSS, JavaScript, Flask  
+**Python:** AI integration, automations  
+**Tools:** n8n, webhooks, AI-assisted debugging
 
 ## 🌟 Featured Projects
-### [Portfolio Website](https://mrsehajofficial.github.io/Portfolio/)
-A modern, secure portfolio featuring dynamic projects, interactive forms, theme customization, and webhook integrations.
+### [AI Chat Web App](https://mrsehajofficial.github.io/Portfolio/)
+A ChatGPT-style web app built fully by me with real-time AI integration, responsive UI, and automated workflows.
 
 **More projects coming soon!**
 
 ## 📫 Get In Touch
-- **Email**: mr.sehaj.official@gmail.com  
-- **GitHub**: [github.com/mrsehajofficial](https://github.com/mrsehajofficial)  
-- **Instagram**: [@sehaj.varma.official](https://www.instagram.com/sehaj.varma.official/)
+- **Email:** mr.sehaj.official@gmail.com  
+- **GitHub:** [github.com/mrsehajofficial](https://github.com/mrsehajofficial)  
+- **Instagram:** [@sehaj.varma.official](https://www.instagram.com/sehaj.varma.official/)
 
 ## 🎯 Current Focus
-Exploring advanced AI concepts, building autonomous systems, and expanding full-stack development skills. Open to collaborations!
+Expanding full-stack web development skills, exploring AI integrations, and building practical automation solutions.
 
 ---
 
