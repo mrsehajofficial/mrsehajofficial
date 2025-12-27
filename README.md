@@ -3,10 +3,9 @@
 ## 🚀 Developer | AI Enthusiast | Creator of Agentic AI Systems
 
 ## 💻 About Me
-- 🎓 Currently in 2nd year of college
-- 🤖 Specializing in agentic AI systems and autonomous technologies
-- 🌟 Passionate about combining technical expertise with innovative AI solutions
-- 📍 Located in Sirsa, Haryana, India
+- 🤖 Self-directed AI developer specializing in agentic and autonomous systems
+- 🌟 Passionate about building innovative, real-world AI solutions
+- 📍 Based in Sirsa, Haryana, India
 
 ## 🛠️ Skills & Technologies
 **Languages**: Python, JavaScript  
@@ -15,13 +14,13 @@
 
 ## 🌟 Featured Projects
 ### [Portfolio Website](https://mrsehajofficial.github.io/Portfolio/)
-Modern, secure portfolio with dynamic projects, interactive forms, theme customization, and webhook integrations.
+A modern, secure portfolio featuring dynamic projects, interactive forms, theme customization, and webhook integrations.
 
-**More Projects Comming Soon !**
+**More projects coming soon!**
 
 ## 📫 Get In Touch
-- **Email**: mr.sehaj.official@gmail.com
-- **GitHub**: [github.com/mrsehajofficial](https://github.com/mrsehajofficial)
+- **Email**: mr.sehaj.official@gmail.com  
+- **GitHub**: [github.com/mrsehajofficial](https://github.com/mrsehajofficial)  
 - **Instagram**: [@sehaj.varma.official](https://www.instagram.com/sehaj.varma.official/)
 
 ## 🎯 Current Focus
@@ -29,4 +28,4 @@ Exploring advanced AI concepts, building autonomous systems, and expanding full-
 
 ---
 
-⭐ **Feel free to collaborations with me!**
+⭐ **Feel free to collaborate with me!**
