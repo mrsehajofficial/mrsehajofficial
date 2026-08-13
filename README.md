@@ -47,7 +47,7 @@ fun_fact: I automate my own workflows — including my portfolio updates
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
 ### AI & Automation
