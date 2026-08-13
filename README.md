@@ -175,7 +175,7 @@ Want to work together? [Send me a message](mailto:mr.sehaj.official@gmail.com)
 
 ### Star this repo
 
-[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-FFD43B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mrsehajofficial/portfolio)
+[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-FFD43B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mrsehajofficial/Amai-Yuki)
 
 <br/>
 <br/>
