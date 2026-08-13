@@ -78,17 +78,8 @@ fun_fact: I automate my own workflows — including my portfolio updates
 
 </div>
 
-I have **15+ more projects** and experiments on GitHub — from backend templates to AI prototypes. Go check them out!
+I have plans, ideas for more projects** and experiments on GitHub — from backend templates to AI prototypes. Go check them out!
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsehajofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
