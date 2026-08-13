@@ -159,7 +159,7 @@ Current Focus Areas:
 
 ## Fun Facts
 
-- I've been coding for **X+ years** — started because I hated doing things twice
+- I've been coding for **3+ years** — started because I hated doing things twice
 - Powered by **too much coffee** and **late-night debugging sessions**
 - I treat every project as a learning experiment
 - Firm believer in **learning in public** and **sharing knowledge**
@@ -176,7 +176,7 @@ I'm always open to interesting conversations and collaborations.
 
 <br/>
 
-Want to work together? [Send me a message](mailto:mr.sehaj.official@gmail.com) or [open an issue](https://github.com/mrsehajofficial/portfolio/issues) on this repo!
+Want to work together? [Send me a message](mailto:mr.sehaj.official@gmail.com)
 
 </div>
 
