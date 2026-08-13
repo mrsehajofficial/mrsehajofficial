@@ -47,10 +47,8 @@ fun_fact: I automate my own workflows — including my portfolio updates
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=flask)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Provider](https://img.shields.io/badge/Provider-764ABC?style=for-the-badge&logo=flutter)
-![Workmanager](https://img.shields.io/badge/Workmanager-0175C2?style=for-the-badge)
 
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
