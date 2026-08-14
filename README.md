@@ -96,7 +96,7 @@ I have plans, ideas for more projects** and experiments on GitHub — from backe
 
 <div align="center">
 
-[![Sehaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrsehajofficial&bg_color=0d1117&color=5e36ff&line=5e36ff&point=5e36ff&area=true&hide_border=true)](https://github.com/mrsehajofficial)
+[![Sehaj Varma GitHub Coding Activity Graph Pipeline](https://github-readme-activity-graph.vercel.app/graph?username=mrsehajofficial&bg_color=0d1117&color=5e36ff&line=5e36ff&point=5e36ff&area=true&hide_border=true)](https://github.com/mrsehajofficial)
 
 </div>
 
