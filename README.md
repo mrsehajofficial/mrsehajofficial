@@ -4,7 +4,7 @@
 
 ### AI Automation Engineer & Backend Developer
 
-[Portfolio](https://www.bitbridge.work.gd/) | [Email](mailto:mr.sehaj.official@gmail.com) | [GitHub](https://github.com/mrsehajofficial)
+[Portfolio](https://sehaj.wasmer.app/) | [Email](mailto:mr.sehaj.official@gmail.com) | [GitHub](https://github.com/mrsehajofficial)
 
 <br/>
 
@@ -151,7 +151,7 @@ Current Focus Areas:
 
 I'm always open to interesting conversations and collaborations.
 
-[Portfolio](https://www.bitbridge.work.gd/) | [Email](mailto:mr.sehaj.official@gmail.com) | [GitHub](https://github.com/mrsehajofficial) | [Discord](https://discord.com/channels/@me/1504410390791065631)
+[Portfolio](https://sehaj.wasmer.app/) | [Email](mailto:mr.sehaj.official@gmail.com) | [GitHub](https://github.com/mrsehajofficial) | [Discord](https://discord.com/channels/@me/1504410390791065631)
 
 <br/>
 
