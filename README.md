@@ -1,7 +1,7 @@
 # Sehaj Varma — AI Automation Engineer & Backend Developer
 
 AI Automation Engineer from India.  
-I build **LLM agents**, **RAG pipelines**, **Python/Flask backends**, and real-time messaging apps.
+I build **LLM agents**, **RAG pipelines**, **Python/Flask backends**.
 
 Live portfolio: https://sehaj.wasmer.app/
 
