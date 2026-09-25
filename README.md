@@ -13,6 +13,12 @@ Live portfolio: https://sehaj.wasmer.app/
 - Flutter / Dart (real-time messaging app: Amai Yuki)
 
 ## Featured Project
+**Aegis** - Self-Hosted Telegram Group management Bot.
+Website: https://aegis.wasmer.app
+Get On for *YourSelf*: https://github.com/mrsehajofficial/aegis
+
+
+
 **Amai Yuki** — Real-time messaging app with custom protocol + LLM features  
 Frontend (open source): https://github.com/mrsehajofficial/Amai-Yuki
 
