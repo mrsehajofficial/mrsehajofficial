@@ -10,7 +10,7 @@ Live portfolio: https://sehaj.wasmer.app/
 - RAG Pipelines & Vector DBs
 - Python / Flask REST APIs
 - Real-time systems & distributed workflows
-- Flutter / Dart (real-time messaging app: Amai Yuki)
+- Flutter / Dart (AI Accelrated)
 
 ## Featured Projects
 
@@ -32,7 +32,7 @@ Live portfolio: https://sehaj.wasmer.app/
 ## Stack
 - AI: OpenAI, Gemini, RAG, agents
 - Backend: Python, Flask, SQLite
-- Frontend: Flutter, Dart, HTML/CSS/JS
+- Frontend: Flutter, Dart, HTML/CSS/JS (AI Accelrated)
 - Deployment: Wasmer, Vercel, etc.
 
 I automate repetitive tasks and ship systems that actually work.
