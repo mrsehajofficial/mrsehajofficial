@@ -78,13 +78,11 @@
 ## 📊 **Live Stats** — *Auto-Updated via GitHub Actions*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsehajofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsehajofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsehajofficial&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrsehajofficial&theme=tokyonight&hide_border=true" alt="WakaTime Stats" width="48%" />
 </p>
 
 ---
