@@ -107,6 +107,12 @@ Production-shaped RAG pipeline: document ingestion, hybrid retrieval with score 
   <a href="https://github.com/mrsehajofficial" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-mrsehajofficial-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/mrsehajofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mrsehajofficial-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sehaj.varma.official/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-sehaj.varma.official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://aegis.wasmer.app/" target="_blank">
     <img src="https://img.shields.io/badge/Aegis_Live-aegis.wasmer.app-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Aegis live site" />
   </a>
