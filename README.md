@@ -75,7 +75,7 @@
 
 ---
 
-## 📊 **Live Metrics** — *Auto-Updated via GitHub Actions*
+## 📊 **Live Stats** — *Auto-Updated via GitHub Actions*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrsehajofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
