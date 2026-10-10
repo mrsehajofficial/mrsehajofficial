@@ -81,9 +81,7 @@ Production-shaped RAG pipeline: document ingestion, hybrid retrieval with score 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsehajofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsehajofficial&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrsehajofficial&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 ## Contribution Snake
 
