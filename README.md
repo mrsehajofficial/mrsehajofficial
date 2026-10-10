@@ -75,6 +75,9 @@ Production-shaped RAG pipeline: document ingestion, hybrid retrieval with score 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrsehajofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
+  </p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsehajofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
