@@ -65,6 +65,7 @@ Production-shaped RAG pipeline: document ingestion, hybrid retrieval with score 
 
 ## Currently Exploring
 
+- **Programming Language Design** — Ovyth, a custom compiled language, compiler architecture, and native code generation
 - **Agent-to-Agent Protocols** — MCP, A2A, custom orchestration layers
 - **Local-First AI** — Ollama, llama.cpp, on-device inference optimization
 - **Eval-Driven Development** — LLM-as-judge, synthetic datasets, regression testing for prompts
