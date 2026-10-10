@@ -127,9 +127,7 @@ Production-shaped RAG pipeline: document ingestion, hybrid retrieval with score 
 - **Deterministic systems** — Tested in CI, not vibes
 - **Boring tech, exciting results** — Proven stacks, novel applications
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrsehajofficial&style=for-the-badge&color=00D4AA&label=Profile+Views" alt="Profile Views" />
-</p>
+
 
 <p align="center">
   <sub>⭐ Star repos that help you • 🐛 Open issues for bugs • 💡 PRs welcome • 🤝 Let's build something</sub>
